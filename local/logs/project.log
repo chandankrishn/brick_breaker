@@ -1,0 +1,183 @@
+2021-09-22 09:53:01-log: [Package] Profile Migrate: program@Cocos Creator...
+2021-09-22 09:53:01-log: [Package] Profile Migrate: program@Cocos Creator...
+2021-09-22 09:53:01-log: [Package] Profile Migrate: device@Cocos Creator...
+2021-09-22 09:53:01-log: [Package] Profile Migrate: device@Cocos Creator...
+2021-09-22 09:53:01-log: [Package] Profile Migrate: engine@Cocos Creator...
+2021-09-22 09:53:01-log: [Package] menu@1.0.0 enable
+2021-09-22 09:53:01-log: [Package] profile@1.0.0 enable
+2021-09-22 09:53:02-log: [Package] messages@1.0.0 enable
+2021-09-22 09:53:02-log: [Package] program@1.0.0 enable
+2021-09-22 09:53:02-log: [Package] device@1.0.1 enable
+2021-09-22 09:53:02-log: [Package] ui-kit@1.0.1 enable
+2021-09-22 09:53:02-log: [Package] tester@1.0.0 enable
+2021-09-22 09:53:02-log: [Package] preferences@1.0.0 enable
+2021-09-22 09:53:02-log: Setup mods mgr.: 349.742ms
+2021-09-22 09:53:02-log: [Package] engine@1.0.5 enable
+2021-09-22 09:53:07-log: [Package] programming@1.0.0 enable
+2021-09-22 09:53:07-log: [Package] asset-db@1.0.0 enable
+2021-09-22 09:53:07-log: [Package] console@1.0.0 enable
+2021-09-22 09:53:07-log: [Package] scene@1.0.0 enable
+2021-09-22 09:53:07-log: [Package] project@1.0.1 enable
+2021-09-22 09:53:07-log: [Package] about@1.0.0 enable
+2021-09-22 09:53:08-log: [Package] server@1.0.0 enable
+2021-09-22 09:53:08-log: [Package] utils@1.0.0 enable
+2021-09-22 09:53:08-log: [Package] assets@1.0.0 enable
+2021-09-22 09:53:08-log: [Package] inspector@1.0.0 enable
+2021-09-22 09:53:08-log: [Package] hierarchy@1.0.0 enable
+2021-09-22 09:53:10-log: [Package] preview@1.0.1 enable
+2021-09-22 09:53:10-log: [Package] animator@1.0.0 enable
+2021-09-22 09:53:11-log: [Package] builder@1.2.8 enable
+2021-09-22 09:53:11-log: [Package] node-library@1.0.0 enable
+2021-09-22 09:53:11-log: [Package] shortcuts@1.0.1 enable
+2021-09-22 09:53:11-log: [Package] importer@1.0.0 enable
+2021-09-22 09:53:11-log: [Package] package-asset@1.0.0 enable
+2021-09-22 09:53:11-log: [Package] reference-image@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] channel-upload-tools@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] alipay-mini-game@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] android@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] baidu-mini-game@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] bytedance-mini-game@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] huawei-agc@1.0.0 enable
+2021-09-22 09:53:12-warn: ios:Developer team information not found
+2021-09-22 09:53:12-warn: Command failed: xcrun security find-identity -v -p codesigning
+xcrun: error: active developer path ("/Applications/Xcode 10.2.app/Contents/Developer") does not exist
+Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
+See `man xcode-select` for more details.
+
+2021-09-22 09:53:12-log: [Package] ios@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] ios-app-clip@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] mac@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] native@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] ohos@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] web-desktop@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] web-mobile@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] wechatgame@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] windows@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] cocos-play@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] huawei-quick-game@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] link-sure@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] oppo-mini-game@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] qtt@1.0.0 enable
+2021-09-22 09:53:12-log: [Package] vivo-mini-game@1.0.0 enable
+2021-09-22 09:53:13-log: [Package] cocos-service@3.0.1 enable
+2021-09-22 09:53:13-warn: [Asset DB] Sender does not exist: 1272
+2021-09-22 09:53:13-log: [Package] extension@3.0.8 enable
+2021-09-22 09:53:14-log: [Package] im-plugin@3.0.6 enable
+2021-09-22 09:53:14-log: [Package] lightmap@1.0.3 enable
+2021-09-22 09:53:22-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2021-09-22 09:53:22-log: [Scene] begin init
+2021-09-22 09:53:22-log: [Scene] require engine end
+2021-09-22 09:53:22-log: [Scene] Serialize end
+2021-09-22 09:53:22-log: [Scene] configureStartup end
+2021-09-22 09:53:22-info: [Scene] WebGL2 device initialized.
+2021-09-22 09:53:22-log: [Scene] Cocos Creator v3.3.0
+2021-09-22 09:53:22-error: [Window] timeout
+2021-09-22 09:53:22-error: [Window] timeout
+2021-09-22 09:53:22-info: [Scene] Forward render pipeline initialized.
+2021-09-22 09:53:23-log: [Scene] openEngine end
+2021-09-22 09:53:23-log: [Scene] configureEngine end
+2021-09-22 10:32:20-error: [Build] Asset({asset(d0918199-8bb2-4367-a157-9b6b2012fcf1@f9941)}) required by Asset({asset(db://assets/Main.scene)}) is missing，Please check whether the asset failed to import or was deleted by mistake.
+2021-09-22 10:32:20-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+2021-09-22 10:32:20-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2021-09-22 10:59:54-error: [Asset DB] Importer exec failed: {asset[/Users/chandankrishnani/CocosPractice/Brick_breaker/assets/Assets/Archive/Extra/BgForMain.jpg@f9941](40969109-0e9c-4809-ae12-01eafe8e6140@f9941)}
+2021-09-22 10:59:54-error: [Asset DB] VipsJpeg: Premature end of input file
+
+2021-09-22 10:59:54-error: [Asset DB] Error: VipsJpeg: Premature end of input file
+
+2021-09-22 11:00:16-error: [Scene] download failed: import://40/40969109-0e9c-4809-ae12-01eafe8e6140@f9941.json?_t=1632288616164, status: 0(error)
+2021-09-22 11:00:21-error: [Scene] download failed: import://40/40969109-0e9c-4809-ae12-01eafe8e6140@f9941.json?_t=1632288621849, status: 0(error)
+2021-09-22 11:29:51-error: [Scene] Cannot read property 'filter' of null
+2021-09-22 11:33:48-error: [Build] Cannot read property 'userData' of undefined
+2021-09-22 11:33:48-error: [Build] Cannot read property 'userData' of undefined
+2021-09-22 13:14:10-error: [Scene] Cannot read property 'filter' of null
+2021-09-22 15:19:48-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Brick_breaker/assets/scripts/Mainscript.ts: SyntaxError: unknown: Did not expect a type annotation here. (141:19)
+
+  139 |
+  140 |     }
+> 141 |     touchMove(event:any)
+      |                    ^
+  142 |     {
+  143 |         let current:number;
+  144 |         if(event.getLocation().x>(this.width/2)).
+2021-09-22 15:19:48-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Brick_breaker/assets/scripts/Mainscript.ts: SyntaxError: unknown: Did not expect a type annotation here. (141:19)
+
+  139 |
+  140 |     }
+> 141 |     touchMove(event:any)
+      |                    ^
+  142 |     {
+  143 |         let current:number;
+  144 |         if(event.getLocation().x>(this.width/2)).
+2021-09-22 15:19:48-warn: [Scene] Missing class: 33946kAz/hNWambHanYnxIq
+2021-09-22 15:19:48-error: [Scene] Script "33946kAz/hNWambHanYnxIq" attached to "bg" is missing or invalid. Detailed information:
+Script UUID: "33946900-cff8-4d59-a99b-1da9d89f122a"
+Class ID: "33946kAz/hNWambHanYnxIq"
+
+2021-09-22 15:19:48-error: [Scene] Script "33946kAz/hNWambHanYnxIq" attached to "bg" is missing or invalid. Detailed information:
+Script UUID: "33946900-cff8-4d59-a99b-1da9d89f122a"
+Class ID: "33946kAz/hNWambHanYnxIq"
+
+2021-09-22 15:19:58-warn: [Build] Missing class: 33946kAz/hNWambHanYnxIq
+2021-09-22 15:19:58-error: [Build] Script "33946kAz/hNWambHanYnxIq" attached to "bg" in scene "Main" is missing or invalid. Detailed information:
+Asset url: "db://assets/Scene/Main"
+Script UUID: "33946900-cff8-4d59-a99b-1da9d89f122a"
+Class ID: "33946kAz/hNWambHanYnxIq"
+
+2021-09-22 15:19:58-error: [Build] Script "33946kAz/hNWambHanYnxIq" attached to "bg" in scene "Main" is missing or invalid. Detailed information:
+Asset url: "db://assets/Scene/Main"
+Script UUID: "33946900-cff8-4d59-a99b-1da9d89f122a"
+Class ID: "33946kAz/hNWambHanYnxIq"
+
+2021-09-22 15:19:58-error: [Build] Cannot read property 'url' of undefined
+2021-09-22 15:19:58-error: [Build] Cannot read property 'url' of undefined
+2021-09-22 15:20:04-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Brick_breaker/assets/scripts/Mainscript.ts: SyntaxError: unknown: Did not expect a type annotation here. (141:19)
+
+  139 |
+  140 |     }
+> 141 |     touchMove(event:any)
+      |                    ^
+  142 |     {
+  143 |         let current:number;
+  144 |         if(event.getLocation().x>(this.width/2)).
+2021-09-22 15:20:04-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Brick_breaker/assets/scripts/Mainscript.ts: SyntaxError: unknown: Did not expect a type annotation here. (141:19)
+
+  139 |
+  140 |     }
+> 141 |     touchMove(event:any)
+      |                    ^
+  142 |     {
+  143 |         let current:number;
+  144 |         if(event.getLocation().x>(this.width/2)).
+2021-09-22 15:20:04-warn: [Scene] Missing class: 33946kAz/hNWambHanYnxIq
+2021-09-22 15:20:04-error: [Scene] Script "33946kAz/hNWambHanYnxIq" attached to "bg" is missing or invalid. Detailed information:
+Script UUID: "33946900-cff8-4d59-a99b-1da9d89f122a"
+Class ID: "33946kAz/hNWambHanYnxIq"
+
+2021-09-22 15:20:04-error: [Scene] Script "33946kAz/hNWambHanYnxIq" attached to "bg" is missing or invalid. Detailed information:
+Script UUID: "33946900-cff8-4d59-a99b-1da9d89f122a"
+Class ID: "33946kAz/hNWambHanYnxIq"
+
+2021-09-22 15:20:06-warn: [Build] Missing class: 33946kAz/hNWambHanYnxIq
+2021-09-22 15:20:06-error: [Build] Script "33946kAz/hNWambHanYnxIq" attached to "bg" in scene "Main" is missing or invalid. Detailed information:
+Asset url: "db://assets/Scene/Main"
+Script UUID: "33946900-cff8-4d59-a99b-1da9d89f122a"
+Class ID: "33946kAz/hNWambHanYnxIq"
+
+2021-09-22 15:20:06-error: [Build] Script "33946kAz/hNWambHanYnxIq" attached to "bg" in scene "Main" is missing or invalid. Detailed information:
+Asset url: "db://assets/Scene/Main"
+Script UUID: "33946900-cff8-4d59-a99b-1da9d89f122a"
+Class ID: "33946kAz/hNWambHanYnxIq"
+
+2021-09-22 15:20:09-error: [Build] Could not load file:///Users/chandankrishnani/CocosPractice/Brick_breaker/assets/scripts/Mainscript.ts: ENOENT: no such file or directory, open 'file:///Users/chandankrishnani/CocosPractice/Brick_breaker/assets/scripts/Mainscript.ts'
+2021-09-22 15:20:09-error: [Build] Could not load file:///Users/chandankrishnani/CocosPractice/Brick_breaker/assets/scripts/Mainscript.ts: ENOENT: no such file or directory, open 'file:///Users/chandankrishnani/CocosPractice/Brick_breaker/assets/scripts/Mainscript.ts'

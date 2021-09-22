@@ -1,0 +1,56 @@
+{
+  "__version__": "1.2.8",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1632286936288": {
+        "id": "1632286936288",
+        "progress": 1,
+        "state": "success",
+        "message": "22-09-2021 17:13 Build success in 5891 ms!",
+        "options": {
+          "name": "Brick_breaker",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "61c37938-7f12-4e27-a789-b918f34893f7",
+          "scenes": [
+            {
+              "url": "db://assets/Main.scene",
+              "uuid": "61c37938-7f12-4e27-a789-b918f34893f7",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {}
+          }
+        },
+        "time": "22-09-2021 17:13",
+        "dirty": false
+      }
+    }
+  }
+}
